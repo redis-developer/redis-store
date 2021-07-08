@@ -1,15 +1,21 @@
 {
     "app_name": "Redisstore",
     "description": "Firestore backed by redis!",
-    "hidden": true,
-    "rank": 21,
+    "rank": 335,
     "type": "Building Block",
     "contributed_by": "Community",
-    "repo_url": "https://github.com/Dacode45/redis-store",
-    "download_url": "https://github.com/Dacode45/redis-store/archive/refs/heads/main.zip",
+    "repo_url": "https://github.com/redis-developer/redis-store",
+    "download_url": "https://github.com/redis-developer/redis-store/archive/refs/heads/main.zip",
     "hosted_url": "",
-    "quick_deploy": "",
-    "deploy_buttons": [],
+    "quick_deploy": "true",
+    "deploy_buttons": [
+        {
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redis-store.git" 
+        },
+        {
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redis-store.git" 
+        }
+    ],
     "language": [
         "Go"
     ],
@@ -22,18 +28,18 @@
         "SUBSCRIBE"
     ],
     "redis_features": [
-        "caching"
+        "Caching"
     ],
     "redis_modules": [
         "RediJSON"
     ],
     "app_image_urls": [
-        "https://github.com/Dacode45/redis-store"
+        "https://github.com/redis-developer/redis-store"
     ],
     "youtube_url": "",
     "special_tags": [
         "Hackathon"
     ],
     "verticals": [],
-    "markdown": ""
+    "markdown": "https://raw.githubusercontent.com/redis-developer/redis-store/main/README.md"
 }
