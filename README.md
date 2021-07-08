@@ -1,4 +1,4 @@
-![logo](./cover.png)
+![logo](https://raw.githubusercontent.com/redis-developer/redis-store/main/cover.png)
 
 # RedisStore
 
@@ -8,7 +8,7 @@ none of the costs!
 Requires RedisJSON
 
 [Realtime Multichat Demo](https://redis-chat-hackathon-app.web.app/)
-![Demo Gif](demo.gif)
+![Demo Gif](https://raw.githubusercontent.com/redis-developer/redis-store/main/demo.gif)
 
 ## Why we exists
 
