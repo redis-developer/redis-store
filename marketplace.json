@@ -33,9 +33,7 @@
     "redis_modules": [
         "RediJSON"
     ],
-    "app_image_urls": [
-        "https://github.com/redis-developer/redis-store"
-    ],
+    "app_image_urls": [],
     "youtube_url": "",
     "special_tags": [
         "Hackathon"
