@@ -31,13 +31,13 @@
         "Caching"
     ],
     "redis_modules": [
-        "RediJSON"
+        "RedisJSON"
     ],
     "app_image_urls": [],
     "youtube_url": "",
     "special_tags": [
         "Hackathon"
     ],
-    "verticals": [],
+    "verticals": ["Technology"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/redis-store/main/README.md"
 }
