@@ -1,6 +1,6 @@
 {
-    "app_name": "Redisstore",
-    "description": "Firestore backed by redis!",
+    "app_name": "Redis Store",
+    "description": "Firestore backed by Redis!",
     "rank": 335,
     "type": "Building Block",
     "contributed_by": "Community",
