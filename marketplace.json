@@ -39,6 +39,6 @@
     "special_tags": [
         "Hackathon"
     ],
-    "verticals": ["Technology"],
+    "verticals": ["Others"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/redis-store/main/README.md"
 }
