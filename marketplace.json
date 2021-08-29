@@ -1,7 +1,7 @@
 {
     "app_name": "Redis Store",
     "description": "Firestore backed by Redis!",
-    "rank": 335,
+    "rank": 190,
     "type": "Building Block",
     "contributed_by": "Community",
     "repo_url": "https://github.com/redis-developer/redis-store",
