@@ -11,10 +11,10 @@
     "quick_deploy": "false",
     "deploy_buttons": [
         {
-            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redis-store.git" 
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redis-store.git"
         },
         {
-            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redis-store.git" 
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redis-store.git"
         }
     ],
     "language": [
@@ -28,11 +28,11 @@
         "PUBLISH",
         "SUBSCRIBE"
     ],
-    "redis_features": [
+    "redis_use_cases": [
         "Caching"
     ],
-    "redis_modules": [
-        "RedisJSON"
+    "redis_features": [
+        "JSON"
     ],
     "app_image_urls": [],
     "youtube_url": "https://www.youtube.com/watch?v=5WgloZdQm3g",
