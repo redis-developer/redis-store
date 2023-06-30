@@ -5,7 +5,7 @@
 An self hosted realtime JSON document store that gives you the same functionality as Firebase's Firestore with
 none of the costs!
 
-Requires RedisJSON
+Requires Redis JSON
 
 
 
